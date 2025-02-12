@@ -1,7 +1,7 @@
-# :rocket: Applied Data Science Capstone
+# :rocket: IBM Applied Data Science Capstone
 This Capstone project is one of courses in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) specialization, and it summarizes all materials in the form of project that have been learned during this specialization.
 ## :page_facing_up: Project Background
-SpaceX is the most successful company of the commercial space age, making space travel affordable. The company advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. Based on public information and machine learning models, we are going to predict if SpaceX will reuse the first stage.
+SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. The project attempts to predict SpaceX Falcon 9 first stage landing. This information can be used to determine the cost of a launch. 
 ## :page_facing_up: Questions to be answered 
 - How do variables such as payload mass, launch site, number of flights, and orbits affect the success of the first stage landing? 
 - Does the rate of successful landings increase over the years? 
